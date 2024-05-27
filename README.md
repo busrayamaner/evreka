@@ -1,5 +1,18 @@
 # Evreka Study Case
+### Evreka Screenshots
+<table>
 
+  <tr>
+    <td><img src="https://github.com/busrayamaner/evreka_study_case/assets/69725753/79521484-e390-429e-842a-d96539343e70" width=270 height=480></td>
+    <td><img src="https://github.com/busrayamaner/evreka_study_case/assets/69725753/a80dbb6d-1a67-48d8-8539-e6d5b51fc427" width=270 height=480></td>
+    <td><img src="https://github.com/busrayamaner/evreka_study_case/assets/69725753/a470b76e-bc11-4525-858f-72f7aebbcd78" width=270 height=480></td>
+    <td><img src="https://github.com/busrayamaner/evreka_study_case/assets/69725753/3625491d-e6a0-454a-97b7-1caf3d1be114" width=270 height=480></td>
+
+
+  </tr>
+
+ </table>
+ 
 The folder structure in a Flutter project consists of specialized subfolders, each focusing on specific tasks and residing under the lib folder. This structure is used to organize project files and make the development process more orderly.
 
 - bindings: This folder contains the logic for bindings in GetX, particularly the bindings for pages managed with GetX.
