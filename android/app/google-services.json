@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299758385866",
+    "project_id": "evreka-2f038",
+    "storage_bucket": "evreka-2f038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299758385866:android:f12fba33950fa9771e9233",
+        "android_client_info": {
+          "package_name": "com.example.evreka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkJfeeGhFRMUsL1Htf0ogN1HqpTF6ITM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

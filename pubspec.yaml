@@ -1,0 +1,53 @@
+name: evreka
+description: "A new Flutter project."
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.5 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  #Responsive Design
+  sizer: ^2.0.15
+
+  #State Management
+  get: ^4.6.6
+
+  #Date Format
+  intl: ^0.19.0
+
+  # Maps
+  google_maps_flutter: ^2.5.3
+
+  # Firebase for DB
+  firebase_core: ^2.21.0
+  firebase_auth: ^4.12.1
+  cloud_firestore: ^4.17.4
+  firebase_storage: ^11.7.6
+
+  connectivity_plus: 2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 400
