@@ -1,4 +1,10 @@
 # Evreka Study Case
+
+Yo can download apk following link.
+
+https://github.com/busrayamaner/evreka/blob/main/evreka.apk
+
+
 ### Evreka Screenshots
 <table>
 
